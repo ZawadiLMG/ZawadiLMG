@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zawadi, thanks for stopping by!
+My name is Zawadi, thanks for stopping by :)
 
 A little about me:
 - 🔭 I’m currently working on a timeseries regression analysis 

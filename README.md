@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zawadi, thanks for stopping by :)
+Thanks for stopping by :)
 
 A little about me:
 - 🔭 I’m currently working on a machine learning app using python, FastAPI, docker, & VSCode
